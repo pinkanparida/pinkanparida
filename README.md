@@ -26,6 +26,6 @@ I love solving problems using data and building dashboards that tell compelling 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]www.linkedin.com/in/pinkan-parida
+- 💼 LinkedIn: www.linkedin.com/in/pinkan-parida
 - 📧 Email: pinkanparida92@gmail.com
 - 🌐 Portfolio: Coming Soon!
