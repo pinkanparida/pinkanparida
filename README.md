@@ -20,7 +20,7 @@ I love solving problems using data and building dashboards that tell compelling 
 ### 🍔 [Food Delivery App Analytics](https://github.com/yourusername/food-delivery-analytics)
 > Business dashboard built in Power BI to analyze delivery time, orders, and performance metrics.
 
-### 🧠 [Behavioral Addiction Detection (Survey + ML)](https://github.com/yourusername/addiction-screening)
+### 🧠 [Behavioral Addiction Detection (Survey + ML)]([https://github.com/yourusername/addiction-screening](https://github.com/pinkanparida/addiction-screening))
 > ML project using Python (SVM, KNN, Decision Tree) to classify addiction from behavioral surveys.
 
 ---
