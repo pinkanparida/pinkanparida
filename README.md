@@ -14,7 +14,7 @@ I love solving problems using data and building dashboards that tell compelling 
 
 ## 📌 Featured Projects
 
-### 📊 [PhonePe Transaction Dashboard](https://github.com/yourusername/phonepe-dashboard)
+### 📊 [PhonePe Transaction Dashboard](https://github.com/pinkanparida/PhonePe-Transaction-Dashboard---Power-BI-Project)
 > Power BI project visualizing state-wise transactions and trends in India.
 
 ### 🍔 [Food Delivery App Analytics](https://github.com/yourusername/food-delivery-analytics)
