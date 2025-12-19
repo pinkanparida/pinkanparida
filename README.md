@@ -14,6 +14,10 @@ I love solving problems using data and building dashboards that tell compelling 
 
 ## 📌 Featured Projects
 
+### 📊 [Superstore Sales Performance Dashboard](https://github.com/pinkanparida/superstore-sales-performance-dashboard)
+> Interactive Tableau dashboard analyzing Sales, Profit, and Number of Orders using dynamic parameters, filters, and KPI cards. Designed for clear business insights and performance tracking.
+
+
 ### 📊 [PhonePe Transaction Dashboard](https://github.com/pinkanparida/PhonePe-Transaction-Dashboard---Power-BI-Project)
 > Power BI project visualizing state-wise transactions and trends in India.
 
