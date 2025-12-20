@@ -6,10 +6,11 @@ I love solving problems using data and building dashboards that tell compelling 
 ---
 
 ## 🔧 Skills
-- **Tools**: Power BI, Excel (Pivot Tables, Charts), SQL, Python
-- **Libraries**: Pandas, Matplotlib, Scikit-learn
-- **Techniques**: Data Cleaning, Visualization, ML Classification, EDA
-
+- **Tools**: Tableau, Power BI, Excel (Pivot Tables, Charts), SQL, Python, R
+- **Data Modeling**: Relationships, Joins, Star Schema (Basics)
+- **Data Preparation**: Data Cleaning, Data Transformation
+- **Visualization**: Interactive Dashboards, KPI Cards, Filters, Parameters
+- **Concepts**: Descriptive Statistics, Trend Analysis, Business Reporting
 ---
 
 ## 📌 Featured Projects
