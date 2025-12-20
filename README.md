@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pinkan Parida
-Aspiring Data Analyst | Power BI • Python • SQL • Excel • ML Basics
+Aspiring Data Analyst | Tableau • Power BI • SQL • Excel • Python • R
 
 I love solving problems using data and building dashboards that tell compelling stories.
 
