@@ -15,7 +15,8 @@ I love solving problems using data and building dashboards that tell compelling 
 
 ## 📌 Featured Projects
 
-### 📊 [NOVAGEAR Retail Case Study](https://github.com/pinkanparida/superstore-sales-performance-dashboard)
+### 📊 [NOVAGEAR Retail Case Study – Power BI](https://github.com/pinkanparida/superstore-sales-performance-dashboard)
+> Interactive Power BI dashboards analyzing sales performance, product trends, and customer retention for a multi-country retail business using star schema modeling and DAX.
 
 ### 📊 [Analytics Report – Superstore (USA)](https://github.com/pinkanparida/superstore-sales-performance-dashboard)
 > Interactive Tableau dashboard analyzing Sales, Profit, and Number of Orders using dynamic parameters, filters, and KPI cards. Designed for clear business insights and performance tracking.
