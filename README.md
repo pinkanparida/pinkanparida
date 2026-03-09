@@ -15,8 +15,8 @@ I love solving problems using data and building dashboards that tell compelling 
 
 ## 📌 Featured Projects
 
-### 🏦 [NOVAGEAR Retail Case Study – Power BI](https://github.com/pinkanparida/NOVAGEAR-Retail-Case-Study-Power-BI)
-> Interactive Power BI dashboards analyzing sales performance, product trends, and customer retention for a multi-country retail business using star schema modeling and DAX.
+### 🏦 [loan-portfolio-analytics-dashboard--Tableau](https://github.com/pinkanparida/loan-portfolio-analytics-dashboard--Tableau)
+> Interactive Tableau dashboard analyzing loan portfolio performance, risk metrics, and borrower segmentation in banking data.
 
 ### 📊 [NOVAGEAR Retail Case Study – Power BI](https://github.com/pinkanparida/NOVAGEAR-Retail-Case-Study-Power-BI)
 > Interactive Power BI dashboards analyzing sales performance, product trends, and customer retention for a multi-country retail business using star schema modeling and DAX.
